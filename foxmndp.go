@@ -1,4 +1,4 @@
-package foxmndp
+package FoxMNDP
 
 import (
 	"bytes"
